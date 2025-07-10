@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Book club Notes/Connor's Book.md",
+                "file": "World Building/Characters/0. Characters.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Connor's Book"
+              "title": "0. Characters"
             }
           }
         ]
@@ -180,27 +180,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26ddefefc46b473c",
+  "active": "830db911e1aa29aa",
   "lastOpenFiles": [
+    "World Building/Characters/Deities/Chikako.md",
+    "World Building/Characters/Deities/Bjørn.md",
+    "Notes/Story Archetypes/Archetypes.md",
+    "New Organization/Locations/Locations.md",
+    "New Organization/Locations/01. Imperium Fervelii Pactum.md",
+    "Special Animals.md",
+    "New Organization/Locations/desktop.ini",
+    "New Organization/Locations",
+    "New Organization",
+    "Chapters/Chapter 1.md",
+    "Chapters/Chapter 2.md",
+    "Notes/Chat GPT suggestions.md",
+    "Notes/Examples from Books.md",
+    "Notes/Book club Notes/Connor's Book.md",
     "Excalidraw/Drawing 2025-05-04 19.04.09.excalidraw.md",
     "Excalidraw/Drawing 2025-05-04 19.00.21.excalidraw.md",
-    "Special Animals.md",
     "Excalidraw",
     "Canvas Images/Pasted image 20250425101002.png",
     "Untitled.md",
     "Canvas Images/Pasted image 20250425101515.png",
-    "Chapters/Chapter 1.md",
     "World Building/Characters/Deities/Inspiration.canvas",
     "World Building/Characters/Character Inspiration.canvas",
     "Canvas Images/Pasted image 20250425095557.png",
     "Canvas Images/Pasted image 20250425100417.png",
     "World Building/Characters/Deities/Deities Overview.md",
-    "World Building/Characters/Deities/Chikako.md",
-    "World Building/Characters/Deities/Bjørn.md",
     "Story Progression/World Progression.md",
     "Story Progression/Deific Progression.md",
     "Story Progression/Marcus Progression.md",
-    "Chapters/Chapter 2.md",
     "World Building/Locations/2.0 Frostrike.md",
     "Westing House.md",
     "Canvas Images/Pasted image 20241002155356.png",
@@ -208,16 +217,10 @@
     "World Building/Locations/1.0 Constituto Empire.md",
     "Canvas Images/Pasted image 20241002085627.png",
     "World Building/Locations/1.1 Dormiens Ignis.md",
-    "Notes/Chat GPT suggestions.md",
     "World Building/Locations/3.0 Suirlin.md",
     "World Building/Locations/6.0 Abodeena.md",
     "World Building/Locations/5.0 Tihi Kohatu.md",
     "World Building/Locations/4.0 Chishiki no Kaze.md",
-    "World Building/Characters/Deities/Kaplakhan.md",
-    "World Building/Characters/1.1.0 Marcus Equites.md",
-    "World Building/Characters/0. Characters.md",
-    "World Building/Characters/Yirmiyahu.md",
-    "Notes/Book club Notes/Connor's Book.md",
     "Notes/Book club Notes",
     "Canvas Images/Pasted image 20240826131454.png",
     "Canvas Images/Pasted image 20240826130225.png",
@@ -228,9 +231,6 @@
     "Notes/Story Archetypes",
     "Notes",
     "Canvas Images",
-    "World Building",
-    "World Building/Locations",
-    "World Building/Characters/Deities",
     "Magic System/Untitled.canvas"
   ]
 }
