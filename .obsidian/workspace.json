@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1040004dc8682508",
+        "id": "29ee4acad404bd24",
         "type": "tabs",
         "children": [
           {
-            "id": "81c697e3bccf8ce1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "33781465b1149bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special Animals.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Special Animals"
-            }
-          },
-          {
-            "id": "87b653df338cf299",
+            "id": "830db911e1aa29aa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -41,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +176,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2e47e15c5edacb8f",
+  "active": "26ddefefc46b473c",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-05-04 19.04.09.excalidraw.md",
     "Excalidraw/Drawing 2025-05-04 19.00.21.excalidraw.md",
