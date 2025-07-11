@@ -2,7 +2,7 @@
 
 ## Background:
 
-- Son of **Imperator Aurex Veridion**, raised in Monteverra with high expectations.
+- Son of Imperator [[Aurex Veridion]], raised in [[Monteverra]] with high expectations.
 - Trained from youth in martial doctrine, empire history, and field tactics.
 - Attends the **Monteverran Academy of War** — an elite institution reserved for officers-in-training and noble youth.
 - Often compared to his father — seen as “the Imperator’s flame yet to be lit.”

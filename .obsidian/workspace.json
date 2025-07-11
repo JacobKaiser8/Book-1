@@ -13,15 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Organization/Regions/01. Imperium Fervelii Pactum/Characters/Marcus Veridion.md",
+                "file": "New Organization/03. Regions/01. Imperium Fervelii Pactum/01. Imperium Fervelii Pactum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marcus Veridion"
+              "title": "01. Imperium Fervelii Pactum"
             }
           }
         ]
+      },
+      {
+        "id": "2d9ade7b1571c84c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c5fca125c5bdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Organization/02. Chapter Brainstorming/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
+            }
+          },
+          {
+            "id": "88b45ccf9cd43266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Organization/02. Chapter Brainstorming/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,21 +215,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c7a2c225bff04d49",
+  "active": "2e47e15c5edacb8f",
   "lastOpenFiles": [
-    "New Organization/Chapter Brainstorming/Chapter 1.md",
-    "New Organization/Chapter Brainstorming/Chapter Brainstorming.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Characters/Marcus Veridion.md",
-    "New Organization/Chapter Brainstorming",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Characters/Galvinious.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Characters/Characters.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Characters/Aurex Veridion.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Cities/Monteverra.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Characters",
+    "New Organization/01. General",
+    "New Organization/Writing Style",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Characters/Marcus Veridion.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Characters/Marcus Friend.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Characters/Characters.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/01. Imperium Fervelii Pactum.md",
+    "New Organization/02. Chapter Brainstorming/Chapter 1.md",
+    "New Organization/02. Chapter Brainstorming/Chapter 5.md",
+    "New Organization/02. Chapter Brainstorming/Chapter 4.md",
+    "New Organization/02. Chapter Brainstorming/Chapter 3.md",
+    "New Organization/02. Chapter Brainstorming/02. Chapter Brainstorming.md",
+    "New Organization/02. Chapter Brainstorming/Chapter 2.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Cities/Capital City - Pactora.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Characters/Galvinious.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Characters/Aurex Veridion.md",
+    "New Organization/02. Chapter Brainstorming",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Cities/Monteverra.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Characters",
     "Chapters/Chapter 2.md",
     "Chapters/Chapter 1.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/01. Imperium Fervelii Pactum.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Ashborn.md",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Ashborn.md",
     "Special Animals.md",
     "World Building/Note Numbering.md",
     "World Building/Locations/0.1 Locations Overview.md",
@@ -205,22 +248,14 @@
     "World Building/Characters/1.1.0 Marcus Equites.md",
     "World Building/Characters/Character Inspiration.canvas",
     "World Building/Characters/0. Characters.md",
-    "World Building/Characters/Deities/Serafina.md",
-    "World Building/Characters/Deities/Ngi.md",
-    "World Building/Characters/Deities/Kaplakhan.md",
-    "World Building/Characters/Deities/Kane Ena.md",
     "World Building/Characters/Deities/Inspiration.canvas",
-    "World Building/Characters/Deities/Deities Overview.md",
-    "World Building/Characters/Deities/Chikako.md",
-    "World Building/Characters/Deities/Bjørn.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Cities",
-    "New Organization/Regions/02. Kingdom of Iskarheim/Cities",
-    "New Organization/Regions/06. Ahyɛase",
-    "New Organization/Regions/05. Taurima",
-    "New Organization/Regions/02. Kingdom of Iskarheim",
-    "New Organization/Regions/04. The Libraries of Fushinkyo",
-    "New Organization/Regions/03. The Plains of the Vaelori",
-    "New Organization/Regions/01. Imperium Fervelii Pactum",
+    "New Organization/03. Regions/01. Imperium Fervelii Pactum/Cities",
+    "New Organization/03. Regions/02. Kingdom of Iskarheim/Cities",
+    "New Organization/03. Regions/06. Ahyɛase",
+    "New Organization/03. Regions/05. Taurima",
+    "New Organization/03. Regions/02. Kingdom of Iskarheim",
+    "New Organization/03. Regions/04. The Libraries of Fushinkyo",
+    "New Organization/03. Regions/03. The Plains of the Vaelori",
     "Canvas Images/Pasted image 20250425101002.png",
     "Canvas Images/Pasted image 20250425101515.png",
     "Canvas Images/Pasted image 20250425095557.png",
