@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "830db911e1aa29aa",
+            "id": "1659f4f4731fbd68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Organization/Regions/03. The Plains of the Vaelori/03. The Plains of the Vaelori.md",
+                "file": "New Organization/Regions/01. Imperium Fervelii Pactum/Ashborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. The Plains of the Vaelori"
-            }
-          },
-          {
-            "id": "8b2d8bdfe720a0f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Organization/Deities/06. Asiedua.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06. Asiedua"
+              "title": "Ashborn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 269.5
   },
   "right": {
     "id": "8731730c37be3758",
@@ -195,25 +180,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b2d8bdfe720a0f3",
+  "active": "1659f4f4731fbd68",
   "lastOpenFiles": [
-    "New Organization/Deities/05. Umakoro.md",
-    "New Organization/Deities/04. Kyōkaku.md",
+    "New Organization/Regions/02. Kingdom of Iskarheim/Köldari.md",
+    "New Organization/Regions/01. Imperium Fervelii Pactum/Ashborn.md",
+    "New Organization/Regions/03. The Plains of the Vaelori/03. The Plains of the Vaelori.md",
+    "New Organization/Regions/01. Imperium Fervelii Pactum/01. Imperium Fervelii Pactum.md",
+    "New Organization/Regions/02. Kingdom of Iskarheim/02. Kingdom of Iskarheim.md",
+    "New Organization/Concepts.md",
+    "01 Luphera.md",
+    "New Organization/Regions/Regions.md",
+    "World Building/Characters/1.1.0 Marcus Equites.md",
+    "World Building/Characters/0. Characters.md",
+    "Special Animals.md",
+    "World Building/Note Numbering.md",
+    "World Building/Locations/2.0 Frostrike.md",
+    "World Building/Locations/1.0 Constituto Empire.md",
     "New Organization/Deities/03. Kaplakhan.md",
     "New Organization/Deities/02. Isbjørn.md",
-    "New Organization/Deities/01. Luphera.md",
+    "New Organization/Deities/04. Kyōkaku.md",
+    "New Organization/Deities/05. Umakoro.md",
     "New Organization/Deities/06. Asiedua.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/01. Imperium Fervelii Pactum.md",
+    "New Organization/Deities/01. Luphera.md",
     "New Organization/Regions/04. The Libraries of Fushinkyo/04. The Libraries of Fushinkyo.md",
     "New Organization/Regions/06. Ahyɛase/06. Ahyɛase.md",
     "New Organization/Regions/06. Ahyɛase/desktop.ini",
     "New Organization/Regions/06. Ahyɛase",
     "New Organization/Deities/Deities.md",
-    "New Organization/Regions/Regions.md",
     "New Organization/Regions/05. Taurima/05. Taurima.md",
     "New Organization/Regions/05. Taurima/Capital City - Taurima.md",
-    "New Organization/Regions/03. The Plains of the Vaelori/03. The Plains of the Vaelori.md",
-    "New Organization/Regions/02. Kingdom of Iskarheim/02. Kingdom of Iskarheim.md",
     "New Organization/Regions/05. Taurima/desktop.ini",
     "New Organization/Regions/05. Taurima",
     "New Organization/Regions/04. The Libraries of Fushinkyo/Capital City - Tenshoden.md",
@@ -221,17 +216,8 @@
     "New Organization/Regions/04. The Libraries of Fushinkyo",
     "New Organization/Regions/03. The Plains of the Vaelori/desktop.ini",
     "New Organization/Regions/03. The Plains of the Vaelori",
-    "New Organization/Regions/02. Kingdom of Iskarheim/Capital City - Urhalla.md",
-    "New Organization/Regions/02. Kingdom of Iskarheim/Vargstrand.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Capital City - Pactora.md",
-    "New Organization/Regions/01. Imperium Fervelii Pactum/Monteverra.md",
-    "World Building/Characters/Deities/Deities Overview.md",
-    "World Building/Characters/Deities/Chikako.md",
-    "World Building/Locations/3.0 Suirlin.md",
     "New Organization/Locations/02. Frosbjorn or Bjarnskeld/desktop.ini",
     "New Organization/Regions/02. Kingdom of Iskarheim",
-    "World Building/Characters/Deities/Serafina.md",
-    "Story Progression/Deific Progression.md",
     "Canvas Images/Pasted image 20250425101002.png",
     "Canvas Images/Pasted image 20250425101515.png",
     "World Building/Characters/Deities/Inspiration.canvas",
