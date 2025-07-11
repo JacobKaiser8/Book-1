@@ -18,7 +18,7 @@
 - His band is taken back to the academy by the Legionarius
 - The rest of the students see the result of what happened and brings Marcus shame
 - [[Aurex Veridion]] visits Marcus in the infirmary and although is not upset, Marcus still feels his pride dashed even further
-	- [[Aurex Veridion]] tries to comfort and encourage him but it does not sink into the mind of Marcus
+	- [[Aurex Veridion]] tries to comfort and encourage him but it does not sink into the mind of Marcus. Uses a commanding and proud father voice rather than a "stock" "disappointed father" voice.
 - [[Marcus Friend]] comes and visits
 
 **Retires to the Barracks**
@@ -27,4 +27,14 @@
 - Remembers comrades dead and how his other friend almost died.
 - He convinces himself that he can't let that happen and that he doesn't want that to happen again.
 - Resolves to grow in strength to punish those that are guilty and weak; the Iskari.
+
+**Additions**
+
+- **The Iskari raiders** – Give a chilling detail or signature tactic. Are they utterly silent? Do they chant or howl? Do they leave their dead behind? One strong, eerie trait will make them memorable and justify Marcus’s terror.
+    
+- **Marcus’s tactical flaw** – Don’t just let him fail generically. Maybe he assumes the Iskari will retreat, or tries a maneuver that works in drills but collapses in chaos. This gives him something real to _learn from,_ not just _feel bad about._
+    
+- **The dead friend** – Flesh out one comrade in the patrol just enough that their death _lands._ One shared joke or comment earlier makes the guilt more personal.
+    
+- **Symbolic damage** – A small but lasting wound (like a burn, gash, or scar) could visually mark this failure. It might even be noticed by others at the academy.
 

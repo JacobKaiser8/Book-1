@@ -1,0 +1,3 @@
+The blood came later. First came the wind — high and dry, whispering through the rocky pass like a thing with teeth. It tugged at the folds of Marcus Veridion’s cloak and carried with it the sharp scent of pine and old snow. Below, the vineyards lay in perfect rows, green against red earth, unaware of how close death had come.
+
+The patrol was designed to be routine — a final exercise before the academy gates closed behind him for good. Soon, he’d march in with a real century: a hundred Legionarii, shoulder to shoulder. A block of the unrelenting might of the Imperium Fervelii Pactum. The 
