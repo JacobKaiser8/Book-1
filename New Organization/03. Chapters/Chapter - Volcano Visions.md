@@ -12,31 +12,31 @@ He turned back to what was once his home. The city of Monteverra was gone. Where
 
 ==But it was torn away==. He didn’t remember climbing here. He didn’t remember anything after the quake… after the light. His tunic was unmarred. His hands trembled, coated in soot and streaked with raw, blistered skin—but there was no pain. Why couldn’t he feel pain? Why was he the only thing spared? What _was_ this place?
 
-The ground began to tremble again. Panic gripped his chest. Was this finally his end? He felt the heat rise behind him and turned to see the crater’s lava swelling. It bubbled and hissed, the molten pool crawling slowly up the sides of the bowl, alive and angry.
+The earth shook again and instinctually Marcus reached out for something to balance him, but there was to hold. Panic gripped his chest. Was this finally his end? He felt the heat rise behind him and turned to see the crater’s lava swelling. It bubbled and hissed, the molten pool crawling slowly up the sides of the bowl, once again alive and now angry.
 
-The heat became unbearable. Marcus turned back toward the ashen ruins below and began descending the volcano’s slope. The loose ash and soot made every step treacherous, sliding out from beneath his feet as he maneuvered around jagged rock. Ahead, he spotted a winding path—clearer, smoother. He stepped toward it, desperate for something stable.
+The heat became unbearable. Marcus turned back toward the ashen ruins below and began skirting down volcano’s slope. The loose ash and soot made every step treacherous as it slid out from beneath his feet . Ahead, he spotted a winding path—clearer, smoother. He stepped toward it, desperate for anything that would be stable.
 
-His foot slipped.
+As his boot landed on the path and he shifted his weight to his front leg, his foot slipped. He wasn't able to see the slick obsidian glass hidden by the fresh ash deposited on its surface.
 
 He crashed hard onto his back, the air punched from his lungs as he stared helplessly up at the volcano’s blazing maw.
 
 Then came the roar.
 
-A thunderous explosion shattered the silence, followed by a convulsing tremor that rippled through the world. The sky split open with shrieking trails of fire—molten shards ejected from the crater like comets. They streaked outward in all directions, hurtling across the gray sky toward the distant sprawl of Fervelii. Some slammed into nearby cities; others, Marcus couldn’t see—but he knew. Some would fall upon the remains of Monteverra.
+A thunderous explosion shattered the silence, followed by a convulsing tremor that rippled through the world. The sky filled shrieking trails of fire—molten shards ejected from the crater like comets. They flew outward in all directions, hurtling across the gray sky toward the distant sprawl of Fervelii. Some slammed into cities on the horizon; others, Marcus watched— collided into the remains of Monteverra.
 
-A great boom split the air, and a column of lava erupted over the rim of the volcano like a red, world-ending geyser. The shockwave cracked the air, but Marcus barely heard it. Time slowed. The roar dulled. He could only watch as the end rose to meet him.
+A great boom split the air, and a column of lava erupted over the rim of the volcano like a red, world-ending geyser. The shockwave that followed cracked the air, but Marcus barely heard it. Time slowed. The roar dulled. He could only watch as the end rose into the world.
 
-The molten wave arced high into the sky, stretching wider, higher—unnatural in its stillness. Then, within it, he saw them. Two shapes forming near the center. Orbs. Darker sections swirled within them, shifting into form.
+The molten wave arced high into the sky, stretching wider, higher—unnatural in its stillness. Then, within it, he saw two shapes forming near the center. Orbs. Darker sections swirled within them, shifting into form.
 
 Eyes.
 
-Massive, inhuman, and impossibly aware.
+Massive, inhuman, and impossibly aware. As he watched, the rest of the head formed. It looked animal, lupine in shape. 
 
-They stared out over the broken land—and then settled. On _him_.
+The eyes continued to stare out over the broken land observing the majesty of their destruction. They peered out over the black wasteland, the ruined homes. Scanning through their new domain, they spotted him laying there helplessly. The developing head locked its hungry eyes onto _him_. The prey had been found.
 
-His heart lurched. The world snapped back into motion.
+His heart lurched and the world snapped back into motion.
 
-The fire came crashing down.
+The torrent of magma came crashing down toward him.
 
-The wave of molten light and fury swallowed him whole.
+The maw of molten light and fury opened up to swallowed him whole.
 
