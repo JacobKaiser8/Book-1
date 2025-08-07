@@ -18,11 +18,11 @@ The heat became unbearable. Marcus turned back toward the ashen ruins below and 
 
 As his boot landed on the path and he shifted his weight to his front leg, his foot slipped. He wasn't able to see the slick obsidian glass hidden by the fresh ash deposited on its surface.
 
-He crashed hard onto his back, the air punched from his lungs as he stared helplessly up at the volcano’s blazing maw.
+He crashed hard onto his back, the air punched from his lungs as he stared helplessly up at the volcano’s blazing opening.
 
 Then came the roar.
 
-A thunderous explosion shattered the silence, followed by a convulsing tremor that rippled through the world. The sky filled shrieking trails of fire—molten shards ejected from the crater like comets. They flew outward in all directions, hurtling across the gray sky toward the distant sprawl of Fervelii. Some slammed into cities on the horizon; others, Marcus watched— collided into the remains of Monteverra.
+A thunderous explosion shattered the silence, followed by convulsing tremors that rippled through the world. The sky filled with shrieking trails of fire—molten shards ejected from the crater like comets. They flew outward in all directions, hurtling across the darkened sky toward the distant sprawl of Ashvara. Some slammed into cities on the horizon; others, Marcus watched— collided into the remains of Monteverra.
 
 A great boom split the air, and a column of lava erupted over the rim of the volcano like a red, world-ending geyser. The shockwave that followed cracked the air, but Marcus barely heard it. Time slowed. The roar dulled. He could only watch as the end rose into the world.
 

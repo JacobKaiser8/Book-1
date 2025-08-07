@@ -1,5 +1,5 @@
 "Mountain of Destiny"
-[[01. Imperium Fervelii Pactum|Imperium Fervelii Pactum]]
+[[01. Imperium of Ashvara|Imperium of Ashvara]]
 
 # Places
 
