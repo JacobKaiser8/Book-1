@@ -1,5 +1,6 @@
 #Ashborn #Ashvara #Protagonist
 
+MARCUS VERIDION
 ## Background:
 
 - Son of Imperator [[Aurex Veridion]], raised in [[Monteverra]] with high expectations.

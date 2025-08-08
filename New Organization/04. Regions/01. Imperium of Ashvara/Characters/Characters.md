@@ -1,4 +1,4 @@
-[[Marcus Veridion]]
+[[Marcus]]
 [[Aurex Veridion]]
 [[Galvinious]]
 [[Marcus Friend]]
