@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:Templates/Chapter Brainstorming.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}

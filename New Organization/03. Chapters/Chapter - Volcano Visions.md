@@ -24,17 +24,17 @@ He crashed hard onto his back, the air punched from his lungs as he stared helpl
 
 Then came the climax. Then came the roar.
 
-A thunderous explosion shattered the silence, followed by convulsing tremors that rippled through the world. The sky filled with shrieking trails of fire—molten shards ejected from the crater like comets. They flew outward in all directions, hurtling across the darkened sky toward the distant sprawl of Ashvara. Some slammed into cities on the horizon; others, Marcus watched— collided into the remains of Monteverra.
+A thunderous explosion shattered the silence, followed by convulsing tremors that rippled through the world. The sky filled with shrieking trails of fire—molten shards ejected from the crater like comets. They flew outward in all directions, hurtling across the darkened sky toward the distant sprawl of Ashvara. Some slammed into cities on the horizon; others, Marcus watched collide into the remains of Monteverra.
 
-A great boom split the air, and a column of lava erupted over the rim of the volcano like a red, world-ending geyser. The shockwave that followed cracked the air, but Marcus barely heard it. Time slowed. The roar dulled. He could only watch as the end rose into the world.
+A great final boom split the air, and a column of lava erupted over the rim of the volcano like a red, world-ending geyser. The shockwave that followed cracked the air, but Marcus could hear no longer. Time slowed. The earth steadied. He could only watch as the end rose into the world.
 
 The molten wave arced high into the sky, stretching wider, higher—unnatural in its stillness. Then, within it, he saw two shapes forming near the center. Orbs. Darker sections swirled within them, shifting into form.
 
 Eyes.
 
-Massive, inhuman, and impossibly aware. As he watched, the rest of the head formed. It looked animal, lupine in shape. 
+Massive, inhuman, and impossibly aware. As he watched, the rest of the head formed around the original orbs. It began to look animal, almost lupine in shape. 
 
-The eyes continued to stare out over the broken land observing the majesty of their destruction. They peered out over the black wasteland, the ruined homes. Scanning through their new domain, they spotted him laying there helplessly. The developing head locked its hungry eyes onto _him_. The prey had been found.
+The eyes continued to stare out over the broken land observing the majesty of their destruction as the snout and ears formed around them. They peered out over the black wasteland, the ruined homes. Marcus laid there stunned as the eyes scanned through their new domain. They spotted him laying there helplessly. The wolf made of heat and death locked its hungry eyes onto _him_. The prey had been found.
 
 His heart lurched and the world snapped back into motion.
 
