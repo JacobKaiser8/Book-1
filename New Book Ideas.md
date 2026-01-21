@@ -1,0 +1,1 @@
+- A Sci Fi Book about how humans are the optimal creation of life. When humans reach out into passed the solar System they find aliens but they are just humans the evolved in other locations.
