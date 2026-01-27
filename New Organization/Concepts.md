@@ -17,4 +17,6 @@
 	
 - Some? casters are able to see into the deific world. Some of the fire casters are able to see into the deific world and burn out other's power.
 
-- #Ideas/Book1 Leader of the [[02. Kingdom of Iskarheim|Iskarheim]] while the avatar of [[02. Isbjørn|Isbjørn]] dies when his second in command takes on the avatar of [[03. Kaplakhan|Kaplakhan]]. When he dies, there is an explosion of ice and lighting flashes as [[03. Kaplakhan|Kaplakhan]] leaves.
+- Leader of the [[02. Kingdom of Iskarheim|Iskarheim]] while the avatar of [[02. Isbjørn|Isbjørn]] dies when his second in command takes on the avatar of [[03. Kaplakhan|Kaplakhan]]. When he dies, there is an explosion of ice and lighting flashes as [[03. Kaplakhan|Kaplakhan]] leaves. #Ideas/Book1 
+
+- Maybe #Ideas/Book1
