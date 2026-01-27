@@ -38,7 +38,5 @@ The eyes continued to stare out over the broken land observing the majesty of th
 
 His heart lurched and the world snapped back into motion.
 
-The torrent of magma came crashing down toward him.
-
-The maw of molten light and fury opened up to swallowed him whole.
+The torrent of magma came crashing down toward him, the maw of molten light and fury gapping open wide to swallow him in flaming destruction.
 
