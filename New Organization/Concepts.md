@@ -9,6 +9,7 @@
 - Marcus has to convince [[01. Luphera|Luphera]] that the emperor is trying to dominate rather than just grow their nation.
 - Once Marcus convinces [[01. Luphera|Luphera]], she takes away the higher tier of power from the emperor and that is when the emperor is convinced to take on the pact with [[03. Kaplakhan|Kaplakhan]]
 - When the Ashguard break their covenant with [[01. Luphera]], they use a heat capacitor like the Vaelori people to  burn hotter and longer without her. This still is only an imitation of her blessing but does not reach the same levels.
+- The Emperor wants to take on the role of deity for their people. They want to ascend to the world of the deities. Similar to the tower of babel.
 
 ## Magic System
 

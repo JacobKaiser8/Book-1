@@ -23,7 +23,7 @@
 
 ### Main Characters
 - [[Marcus]]
-- [[The Optio]] - Dies at the beginning
+- [[Cassian Marcell]] - Dies at the beginning
 - [[Köldari]]
 - Iskarm
 ### Minor Characters
