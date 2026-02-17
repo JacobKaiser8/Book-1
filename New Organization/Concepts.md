@@ -9,6 +9,15 @@
 - Marcus has to convince [[01. Luphera|Luphera]] that the emperor is trying to dominate rather than just grow their nation.
 - Once Marcus convinces [[01. Luphera|Luphera]], she takes away the higher tier of power from the emperor and that is when the emperor is convinced to take on the pact with [[03. Kaplakhan|Kaplakhan]]
 - When the Ashguard break their covenant with [[01. Luphera]], they use a heat capacitor like the Vaelori people to  burn hotter and longer without her. This still is only an imitation of her blessing but does not reach the same levels.
+
+## Magic System
+
+- Fire Magic - use passion to flame it but without being restrained you burn up
+- Ice Magic - Use reason, and lack of emotion to grow it, but without any passion or emotion you freeze up
+- Air Magic - Let go of stress and anxiety. But without being grounded your mind will float off
+- Stone Magic - Stay grounded in your reality but if you don't allow for some release, you will turn to stone
+- Lightning Magic - Change and movement generates power but without some cultivation everything will be destroyed
+- Life Magic - Cultivation and care gives power to life but without proper pruning things will suffocate eachother.
 ## People/Culture
 
 - Vaelori people make things that use electricity that is stored in some sort of battery. However, because they are the only ones that are able to charge those batteries they don't last very long.
