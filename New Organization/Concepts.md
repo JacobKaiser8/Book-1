@@ -1,5 +1,12 @@
 ## Marcus
 - When he gets power, he needs to try to abuse it to get his way. Maybe to try to do something that is good.
+- Suffers addiction
+	- Develops the addiction after being abused in [[02. Kingdom of Iskarheim|Iskarheim]]
+	- Has to week himself off
+	- Believes that he can do it himself
+	- Gets upset when people try to tell him that he can't do it on his own
+	- Begins to lose power each time falls back into it
+- Suffers from just enduring and not enjoying the journey.
 ## Mutations
 
 - Someone who turns into a mutation of their deity such as a werewolf or werebear. This can happen with forbidden sacrifices as opposed to the normal sacrifices. 
