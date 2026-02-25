@@ -8,5 +8,10 @@ Talking Heads Problem - Dialog that sounds like a therapy session rather than a 
 
 Point of View Drift - Stay in one character's head rather than moving between the two - One Scene One Head
 
-Stakes that Never Land - Make sure there is a human element to the stakes
+Stakes that Never Land - Make sure there is a human element to the stakes. The thing that cannot be undone
 
+Pacing Plateau - Everything is the same pace. Add some difference to the pace of the wording
+
+Start where the story starts
+
+Overwritting - Spread out the descriptions.
