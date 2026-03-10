@@ -1,3 +1,9 @@
+
+# Need to Include Ideas
+## 
+- 
+
+# Possible Ideas
 ## Marcus
 - When he gets power, he needs to try to abuse it to get his way. Maybe to try to do something that is good.
 - Suffers addiction
@@ -7,6 +13,8 @@
 	- Gets upset when people try to tell him that he can't do it on his own
 	- Begins to lose power each time falls back into it
 - Suffers from just enduring and not enjoying the journey.
+- Avatar? does he gain other elements? Can other people do the same or is he unique?
+- Maybe Marcus isn't the hero. Depends on how Red Rising ends but if Marcus is a destroyer/clears the way for the hero to come forth. #Ideas/Book1
 ## Mutations
 
 - Someone who turns into a mutation of their deity such as a werewolf or werebear. This can happen with forbidden sacrifices as opposed to the normal sacrifices. 
@@ -36,11 +44,15 @@
 - When Marcus is knocked unconscious by the volcano, he sees into the deific world. He is on top of the volcano and looking down over his city. His city is leveled and there is only ash covered ground. He sees meteors casting down all around him. Where the meteors land, are people being awakened with the power of fire.
 - He turns around and sees the volcano erupting. The shape of a wolf in the flames and magma. The eyes of the wolf fix on him and the magma crashes down on him, the heat searing searing his skin. He wakes up and realizes the flesh on his arms have been seared by the ash and fire in real life.
 - Some? casters are able to see into the deific world. Some of the fire casters are able to see into the deific world and burn out other's power.
+- The world of the deities is not revealed in book one but is built upon in book 2
+- Do the deities know of each other?
+	- What level of knowledge? Personally know them, can feel them, not at all?
+	- Does Luphera enter the world knowing of the others or is she oblivious
+- What fills the world of the deities?
 ## End of Iskarheim
 
 - Leader of the [[02. Kingdom of Iskarheim|Iskarheim]] while the avatar of [[02. Isbjørn|Isbjørn]] dies his second in command has taken on the avatar of [[03. Kaplakhan|Kaplakhan]]. When he dies, there is an explosion of ice and lighting flashes as [[03. Kaplakhan|Kaplakhan]] leaves. #Ideas/Book1 
 
-- Maybe Marcus isn't the hero. Depends on how Red Rising ends but if Marcus is a destroyer/clears the way for the hero to come forth. #Ideas/Book1
 ## Others
 - Fire orders in the military:
 	- **Ashguard** – The emperor’s personal firebound bodyguards
