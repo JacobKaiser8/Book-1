@@ -31,6 +31,7 @@
 ## Magic System
 
 - Fire Magic - use passion to flame it but without being restrained you burn up
+	- Power channeled along body lines? Then can have fire out elbows for speed boosts or into a hand/fist for "knives"
 - Ice Magic - Use reason, and lack of emotion to grow it, but without any passion or emotion you freeze up
 - Air Magic - Let go of stress and anxiety. But without being grounded your mind will float off
 - Stone Magic - Stay grounded in your reality but if you don't allow for some release, you will turn to stone
