@@ -6,9 +6,9 @@
 # Possible Ideas
 ## Marcus
 - When he gets power, he needs to try to abuse it to get his way. Maybe to try to do something that is good.
-- Suffers addiction
+- Suffers addiction?
 	- Develops the addiction after being abused in [[02. Kingdom of Iskarheim|Iskarheim]]
-	- Has to week himself off
+	- Has to ween himself off
 	- Believes that he can do it himself
 	- Gets upset when people try to tell him that he can't do it on his own
 	- Begins to lose power each time falls back into it
@@ -25,7 +25,7 @@
 
 - Marcus has to convince [[01. Luphera|Luphera]] that the emperor is trying to dominate rather than just grow their nation.
 - Once Marcus convinces [[01. Luphera|Luphera]], she takes away the higher tier of power from the emperor and that is when the emperor is convinced to take on the pact with [[03. Kaplakhan|Kaplakhan]]
-- When the Ashguard break their covenant with [[01. Luphera]], they use a heat capacitor like the Vaelori people to  burn hotter and longer without her. This still is only an imitation of her blessing but does not reach the same levels.
+- When the Ashguard break their covenant with [[01. Luphera|Luphera]], they use a heat capacitor like the Vaelori people to  burn hotter and longer without her. This still is only an imitation of her blessing but does not reach the same levels.
 - The Emperor wants to take on the role of deity for their people. They want to ascend to the world of the deities. Similar to the tower of babel.
 
 ## Magic System
