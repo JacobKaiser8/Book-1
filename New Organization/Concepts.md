@@ -50,6 +50,7 @@
 	- What level of knowledge? Personally know them, can feel them, not at all?
 	- Does Luphera enter the world knowing of the others or is she oblivious
 - What fills the world of the deities?
+- God Kon
 ## End of Iskarheim
 
 - Leader of the [[02. Kingdom of Iskarheim|Iskarheim]] while the avatar of [[02. Isbjørn|Isbjørn]] dies his second in command has taken on the avatar of [[03. Kaplakhan|Kaplakhan]]. When he dies, there is an explosion of ice and lighting flashes as [[03. Kaplakhan|Kaplakhan]] leaves. #Ideas/Book1 
