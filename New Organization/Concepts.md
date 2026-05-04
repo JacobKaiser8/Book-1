@@ -1,4 +1,4 @@
-
+- Aerospike lightsaber
 # Need to Include Ideas
 ## 
 - 
@@ -41,6 +41,7 @@
 
 - Vaelori people make things that use electricity that is stored in some sort of battery. However, because they are the only ones that are able to charge those batteries they don't last very long.
 - Praetorian Guard are the most elite and become some of the most elite flame wielders.
+- [[01. Imperium of Ashvara|Ashvara]] is an engineering culture. OR [[04. The Libraries of Fushinkyo|Fushinkyo]] is the engineering region and they are the ones that provide Marcus with his aerospike light saber
 ## Deific World
 - When Marcus is knocked unconscious by the volcano, he sees into the deific world. He is on top of the volcano and looking down over his city. His city is leveled and there is only ash covered ground. He sees meteors casting down all around him. Where the meteors land, are people being awakened with the power of fire.
 - He turns around and sees the volcano erupting. The shape of a wolf in the flames and magma. The eyes of the wolf fix on him and the magma crashes down on him, the heat searing searing his skin. He wakes up and realizes the flesh on his arms have been seared by the ash and fire in real life.
