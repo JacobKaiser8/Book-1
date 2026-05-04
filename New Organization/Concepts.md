@@ -1,4 +1,18 @@
-- Aerospike lightsaber
+- Aerospike lightsaber:
+	- Appearance: 
+		- Regular sword hilt (possible adornment to match the wielder) but there is a large hole where the hand is placed. 
+		- There is a small cone coming out of the hilt through the cross bar with the rest of the metal creating a ring shaped opening. 
+	- Function: 
+		- The hole on the haft of the sword, is for fire to be forced into. When the fire is forced into it right, then the aerospike grows from the cross and is shaped like a sword.
+		- If there isn't enough pressure from the wielder, then the fire is unshaped as it spills out of the hilt.
+		- Can burn hotter based on the user. Beginning users are not able to cut any of the advanced armors.
+		- IF ADDING MULTIPLE POWERS: The air power will shoot through the center of the flame.
+- Ice spiked axes:
+	- Appearance: The look is a regular axe but as a [[koldari]] expands their ice over the head, spikes form creating a more fearsome and deadly weapon.
+	- Function:
+		- The ice spikes are stronger than steel?
+		- The ice spikes work can grow like seeds of ice when broken off?
+		- Adds fear to the weapons.
 # Need to Include Ideas
 ## 
 - 
